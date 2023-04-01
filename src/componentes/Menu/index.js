@@ -11,23 +11,23 @@ const Menu = () => {
             <ul className={styles.menu__lista}>
                 <li className={styles.menu__item}>
                     <img src={home} alt="Ícone de home" />
-                    <a href="">Ínicio</a>
+                    <a href="#">Ínicio</a>
                 </li>
                 <li className={styles.menu__item}>
                     <img src={maisCurtidas} alt="Ícone de curtida" />
-                    <a href="">Mais curtidas</a>
+                    <a href="#">Mais curtidas</a>
                 </li>
                 <li className={styles.menu__item}>
                     <img src={maisVistas} alt="Ícone de olho" />
-                    <a href="">Mais vistas</a>
+                    <a href="#">Mais vistas</a>
                 </li>
                 <li className={styles.menu__item}>
                     <img src={novas} alt="Ícone de novas" />
-                    <a href="">Novas</a>
+                    <a href="#">Novas</a>
                 </li>
                 <li className={styles.menu__item}>
                     <img src={surpreenda} alt="Ícone de surpreenda" />
-                    <a href="">Surpreenda-me</a>
+                    <a href="#">Surpreenda-me</a>
                 </li>
             </ul>
         </nav>
