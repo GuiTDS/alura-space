@@ -21,12 +21,11 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+![print-alura-space](https://user-images.githubusercontent.com/92134700/229651174-bb3e04ab-7ad2-4a78-bde9-74b63e064ae4.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link-Vercel](https://alura-space-guitds.vercel.app/)
 
 ## My process
 
